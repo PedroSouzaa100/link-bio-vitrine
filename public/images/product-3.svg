@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="Ilustração de calça de alfaiataria preta">
+<title>Ilustração de calça de alfaiataria preta</title>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eeeae1"/><stop offset="1" stop-color="#e4ddd1"/></linearGradient>
+<linearGradient id="fabric" x1="0" y1="0" x2="1" y2="0.7"><stop stop-color="#353b36"/><stop offset="0.45" stop-color="#202621"/><stop offset="1" stop-color="#353b36"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#fff" stop-opacity=".16"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".07"/></linearGradient>
+<filter id="shadow" x="-35%" y="-25%" width="180%" height="180%"><feDropShadow dx="10" dy="18" stdDeviation="14" flood-color="#3d352a" flood-opacity=".14"/></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="9"/></filter>
+<pattern id="weave" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0h6M0 3h6M0 0v6M3 0v6" stroke="#fff" stroke-opacity=".045" stroke-width=".7"/></pattern>
+</defs>
+<path fill="url(#background)" d="M0 0h600v750H0z"/>
+<path d="M0 560 600 310v440H0z" fill="#fff" opacity=".1"/>
+<g opacity=".055" filter="url(#blur)" transform="translate(590 -30) rotate(32)"><path d="M0 0v440" stroke="#383d2e" stroke-width="8"/><g fill="#383d2e"><ellipse cx="-48" cy="80" rx="56" ry="16" transform="rotate(28 -48 80)"/><ellipse cx="45" cy="130" rx="55" ry="17" transform="rotate(-28 45 130)"/><ellipse cx="-55" cy="185" rx="62" ry="18" transform="rotate(24 -55 185)"/><ellipse cx="48" cy="245" rx="62" ry="19" transform="rotate(-28 48 245)"/><ellipse cx="-57" cy="300" rx="68" ry="20" transform="rotate(28 -57 300)"/></g></g>
+<g filter="url(#shadow)">
+<path d="M204 122h192l15 176-37 343-79-2 5-300-14 300-78 2-20-344z" fill="url(#fabric)"/>
+<path d="M204 122h192l3 34H201z" fill="#303432"/>
+<path d="m207 160 62 1-11 60-55 14zm184 0h-61l12 61 55 14z" fill="#272b29"/>
+<path d="m218 164-6 61m170-61 6 61" stroke="#505651" stroke-width="1.2" fill="none"/>
+<path d="M300 158v138l-15 40" stroke="#151a17" stroke-width="2" fill="none"/>
+<path d="M291 159h20v116h-12" stroke="#525751" stroke-width="1" fill="none"/>
+<path d="m243 238 6 385m103-385-23 384" fill="none" stroke="#676b63" stroke-opacity=".4" stroke-width="1.5"/>
+<path d="m254 249 6 360m101-362-23 360" fill="none" stroke="#0f1411" stroke-opacity=".25" stroke-width="5"/>
+<path d="m207 624 78-3m11 0 80 3" stroke="#656961" stroke-width="1.1"/>
+<g fill="#363b37"><path d="M223 121h10v42h-10zM278 121h10v42h-10zM364 121h10v42h-10z"/></g>
+<circle cx="311" cy="139" r="4" fill="#7c827a"/><circle cx="311" cy="139" r="1.5" fill="#313630"/>
+</g>
+</svg>

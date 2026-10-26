@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="750" viewBox="0 0 600 750" role="img" aria-label="Ilustração de bolsa tote caramelo">
+<title>Ilustração de bolsa tote caramelo</title>
+<defs>
+<linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e4e5db"/><stop offset="1" stop-color="#d3d7ca"/></linearGradient>
+<linearGradient id="fabric" x1="0" y1="0" x2="1" y2="0.7"><stop stop-color="#c18c5d"/><stop offset="0.45" stop-color="#ab7148"/><stop offset="1" stop-color="#c18c5d"/></linearGradient>
+<linearGradient id="shine" x1="0" x2="1"><stop stop-color="#fff" stop-opacity=".16"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".07"/></linearGradient>
+<filter id="shadow" x="-35%" y="-25%" width="180%" height="180%"><feDropShadow dx="10" dy="18" stdDeviation="14" flood-color="#3d352a" flood-opacity=".14"/></filter>
+<filter id="blur"><feGaussianBlur stdDeviation="9"/></filter>
+<pattern id="weave" width="6" height="6" patternUnits="userSpaceOnUse"><path d="M0 0h6M0 3h6M0 0v6M3 0v6" stroke="#fff" stroke-opacity=".045" stroke-width=".7"/></pattern>
+</defs>
+<path fill="url(#background)" d="M0 0h600v750H0z"/>
+<path d="M0 560 600 310v440H0z" fill="#fff" opacity=".1"/>
+<g opacity=".055" filter="url(#blur)" transform="translate(590 -30) rotate(32)"><path d="M0 0v440" stroke="#383d2e" stroke-width="8"/><g fill="#383d2e"><ellipse cx="-48" cy="80" rx="56" ry="16" transform="rotate(28 -48 80)"/><ellipse cx="45" cy="130" rx="55" ry="17" transform="rotate(-28 45 130)"/><ellipse cx="-55" cy="185" rx="62" ry="18" transform="rotate(24 -55 185)"/><ellipse cx="48" cy="245" rx="62" ry="19" transform="rotate(-28 48 245)"/><ellipse cx="-57" cy="300" rx="68" ry="20" transform="rotate(28 -57 300)"/></g></g>
+<g filter="url(#shadow)">
+<path d="M184 290v-66c0-84 42-127 116-127s116 43 116 127v66h-24v-66c0-65-29-102-92-102s-92 37-92 102v66z" fill="#9c613f"/>
+<path d="M187 289v-66c0-81 40-122 113-122s113 41 113 122v66" stroke="#dba373" fill="none" stroke-width="2"/>
+<path d="m140 265 320 0 21 311q-174 62-362 0z" fill="url(#fabric)"/>
+<path d="m140 265 23 11-17 282-27 18z" fill="#9f633d"/>
+<path d="m460 265-21 11 16 281 26 19z" fill="#89502e"/>
+<path d="m153 276 293 0 19 291q-165 48-330 0z" stroke="#e3ae7b" stroke-width="1.5" fill="none"/>
+<path d="M170 280q132 12 260 0" stroke="#784426" stroke-width="2" fill="none"/>
+<path d="m175 266 8 81q10 12 20 0l4-81zm218 0 4 81q10 12 20 0l8-81z" fill="#ac7149" stroke="#e1ac7a" stroke-width="1.4"/>
+<g fill="#d5b46a" stroke="#7c5c31" stroke-width="1"><circle cx="194" cy="335" r="5"/><circle cx="407" cy="335" r="5"/></g>
+<path d="M265 394h70v49h-70z" fill="#b98157" stroke="#dba371" stroke-width="1"/>
+<path d="m283 407 17 23 17-23" fill="none" stroke="#8d5937" stroke-width="2"/>
+<path d="m161 509 282 0" stroke="#c89161" stroke-opacity=".24" fill="none"/>
+<path d="m140 265 320 0 21 311q-174 62-362 0z" fill="url(#shine)"/>
+</g>
+</svg>
