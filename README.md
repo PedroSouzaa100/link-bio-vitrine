@@ -3,7 +3,7 @@
 Página de apresentação para usar na bio do Instagram. Explica o objetivo da Vitrine Moda antes de oferecer apenas dois acessos:
 
 - **Acessar o site:** https://vitrine-moda.shop/
-- **Falar pelo WhatsApp:** número (31) 98672-4476, com uma mensagem de apresentação já preenchida.
+- **Falar pelo WhatsApp, com uma mensagem de apresentação já preenchida.
 
 A mensagem só é enviada se o visitante confirmar no WhatsApp. A página funciona mesmo sem JavaScript e não usa cookies, armazenamento local, formulários ou rastreamento.
 
